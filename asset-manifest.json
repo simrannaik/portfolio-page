@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio-page/static/css/main.3bdd9394.css",
+    "main.js": "/portfolio-page/static/js/main.e3974cb9.js",
+    "static/media/image.png": "/portfolio-page/static/media/image.351a5eb4c66f0569d9af.png",
+    "static/media/logo.png": "/portfolio-page/static/media/logo.8ce9df2a5f65c0a65563.png",
+    "static/media/webdesign.png": "/portfolio-page/static/media/webdesign.e0149880d16030c05511.png",
+    "static/media/dbdesign.png": "/portfolio-page/static/media/dbdesign.1d165aef1e1757e0e3e1.png",
+    "static/media/telegram.png": "/portfolio-page/static/media/telegram.a161fc62f0985f932e90.png",
+    "static/media/portfolio-4.png": "/portfolio-page/static/media/portfolio-4.319f9fa1f333e45379ac.png",
+    "static/media/portfolio-2.png": "/portfolio-page/static/media/portfolio-2.9f7b37a8f8ebba525563.png",
+    "static/media/insta.png": "/portfolio-page/static/media/insta.594f71f844838de0cde7.png",
+    "static/media/portfolio-5.png": "/portfolio-page/static/media/portfolio-5.a65f1b6d5edfb0a6dfbc.png",
+    "static/media/portfolio-3.png": "/portfolio-page/static/media/portfolio-3.870acec5f32122b4de19.png",
+    "static/media/bedesign.png": "/portfolio-page/static/media/bedesign.c0077abb5d06101ee50e.png",
+    "static/media/portfolio-1.png": "/portfolio-page/static/media/portfolio-1.194f52a194e62190198e.png",
+    "static/media/certi-1.png": "/portfolio-page/static/media/certi-1.88de78ad863bfa817379.png",
+    "static/media/certi-5.png": "/portfolio-page/static/media/certi-5.e66686a34cba73d201ef.png",
+    "static/media/certi-2.png": "/portfolio-page/static/media/certi-2.32e259278a942165b81d.png",
+    "static/media/certi-4.png": "/portfolio-page/static/media/certi-4.914988499b25a867d327.png",
+    "static/media/certi-6.png": "/portfolio-page/static/media/certi-6.44d978ef5ffba932f02f.png",
+    "static/media/certi-3.png": "/portfolio-page/static/media/certi-3.69fd56f47925fb05ebe3.png",
+    "static/media/linkedin.png": "/portfolio-page/static/media/linkedin.81c56868e43275dac07e.png",
+    "index.html": "/portfolio-page/index.html",
+    "main.3bdd9394.css.map": "/portfolio-page/static/css/main.3bdd9394.css.map",
+    "main.e3974cb9.js.map": "/portfolio-page/static/js/main.e3974cb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bdd9394.css",
+    "static/js/main.e3974cb9.js"
+  ]
+}
