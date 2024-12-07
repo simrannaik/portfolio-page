@@ -13,7 +13,7 @@ CSS
 EmailJS for the contact form functionality
 
 ## **Hosting**
-This portfolio is hosted on GitHub Pages and can be accessed here.
+This portfolio is hosted on GitHub Pages and can be accessed here: https://simrannaik.github.io/portfolio-page/ 
 
 ## Installations:
 npm install --save @emailjs/browser
